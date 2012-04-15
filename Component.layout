@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="CollisionComponent.cpp" open="1" top="0" tabpos="46">
+		<Cursor position="106" topLine="0" />
+	</File>
+	<File name="CollisionSub.cpp" open="1" top="0" tabpos="44">
+		<Cursor position="42" topLine="2" />
+	</File>
+	<File name="CollisionSub.h" open="1" top="0" tabpos="43">
+		<Cursor position="132" topLine="0" />
+	</File>
+	<File name="CoordsComponent.cpp" open="1" top="0" tabpos="19">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="CoordsComponent.h" open="1" top="0" tabpos="34">
+		<Cursor position="74" topLine="0" />
+	</File>
+	<File name="CoordsSub.cpp" open="1" top="0" tabpos="18">
+		<Cursor position="0" topLine="51" />
+	</File>
+	<File name="CoordsSub.h" open="1" top="0" tabpos="17">
+		<Cursor position="60" topLine="0" />
+	</File>
+	<File name="Core.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="1661" topLine="77" />
+	</File>
+	<File name="Core.h" open="1" top="0" tabpos="4">
+		<Cursor position="872" topLine="27" />
+	</File>
+	<File name="GfxComponent.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="407" topLine="5" />
+	</File>
+	<File name="GfxComponent.h" open="1" top="0" tabpos="6">
+		<Cursor position="221" topLine="0" />
+	</File>
+	<File name="GfxSub.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="1187" topLine="62" />
+	</File>
+	<File name="GfxSub.h" open="1" top="0" tabpos="2">
+		<Cursor position="427" topLine="18" />
+	</File>
+	<File name="HealthComponent.cpp" open="1" top="0" tabpos="41">
+		<Cursor position="643" topLine="23" />
+	</File>
+	<File name="HealthComponent.h" open="1" top="0" tabpos="32">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="HealthSub.cpp" open="1" top="0" tabpos="42">
+		<Cursor position="1272" topLine="51" />
+	</File>
+	<File name="HealthSub.h" open="1" top="0" tabpos="31">
+		<Cursor position="656" topLine="10" />
+	</File>
+	<File name="InputComponent.cpp" open="1" top="0" tabpos="35">
+		<Cursor position="94" topLine="0" />
+	</File>
+	<File name="InputComponent.h" open="1" top="0" tabpos="33">
+		<Cursor position="237" topLine="0" />
+	</File>
+	<File name="InputSub.cpp" open="1" top="0" tabpos="37">
+		<Cursor position="3058" topLine="83" />
+	</File>
+	<File name="InputSub.h" open="1" top="0" tabpos="36">
+		<Cursor position="719" topLine="16" />
+	</File>
+	<File name="Message.cpp" open="1" top="0" tabpos="22">
+		<Cursor position="195" topLine="0" />
+	</File>
+	<File name="Message.h" open="1" top="0" tabpos="21">
+		<Cursor position="386" topLine="9" />
+	</File>
+	<File name="MessageCentre.cpp" open="1" top="0" tabpos="23">
+		<Cursor position="290" topLine="16" />
+	</File>
+	<File name="MessageCentre.h" open="1" top="0" tabpos="40">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="MoveSub.cpp" open="1" top="0" tabpos="30">
+		<Cursor position="1728" topLine="70" />
+	</File>
+	<File name="MoveSub.h" open="1" top="0" tabpos="38">
+		<Cursor position="686" topLine="14" />
+	</File>
+	<File name="Object.cpp" open="1" top="0" tabpos="16">
+		<Cursor position="1262" topLine="46" />
+	</File>
+	<File name="Object.h" open="1" top="0" tabpos="15">
+		<Cursor position="369" topLine="0" />
+	</File>
+	<File name="ObjectBuilder.cpp" open="1" top="0" tabpos="11">
+		<Cursor position="2321" topLine="53" />
+	</File>
+	<File name="ObjectBuilder.h" open="1" top="0" tabpos="10">
+		<Cursor position="226" topLine="0" />
+	</File>
+	<File name="ObjectStore.cpp" open="1" top="0" tabpos="14">
+		<Cursor position="1064" topLine="35" />
+	</File>
+	<File name="ObjectStore.h" open="1" top="0" tabpos="13">
+		<Cursor position="92" topLine="1" />
+	</File>
+	<File name="Store.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="565" topLine="20" />
+	</File>
+	<File name="Store.h" open="1" top="0" tabpos="9">
+		<Cursor position="847" topLine="14" />
+	</File>
+	<File name="Telegram.cpp" open="1" top="0" tabpos="24">
+		<Cursor position="159" topLine="0" />
+	</File>
+	<File name="Telegram.h" open="1" top="0" tabpos="39">
+		<Cursor position="95" topLine="0" />
+	</File>
+	<File name="TypeDefs.h" open="1" top="0" tabpos="12">
+		<Cursor position="562" topLine="8" />
+	</File>
+	<File name="Ui.cpp" open="1" top="0" tabpos="26">
+		<Cursor position="495" topLine="0" />
+	</File>
+	<File name="Ui.h" open="1" top="0" tabpos="25">
+		<Cursor position="90" topLine="0" />
+	</File>
+	<File name="Vector2d.cpp" open="1" top="0" tabpos="20">
+		<Cursor position="0" topLine="46" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="685" topLine="10" />
+	</File>
+</CodeBlocks_layout_file>

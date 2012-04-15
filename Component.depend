@@ -1,0 +1,302 @@
+# depslib dependency file v1.0
+1318888239 source:c:\users\sam\documents\programs\c++\component\main.cpp
+	<iostream>
+	"Core.h"
+
+1318882988 source:c:\users\sam\documents\programs\c++\component\gfxsub.cpp
+	"GfxSub.h"
+	"Core.h"
+
+1318881736 c:\users\sam\documents\programs\c++\component\gfxsub.h
+	<map>
+	"TypeDefs.h"
+	"GfxComponent.h"
+
+1318881335 c:\users\sam\documents\programs\c++\component\typedefs.h
+
+1318885518 c:\users\sam\documents\programs\c++\component\gfxcomponent.h
+	<SFML/Graphics.hpp>
+
+1318883021 c:\users\sam\documents\programs\c++\component\store.h
+	<map>
+	<string>
+	<SFML/Graphics.hpp>
+
+1318883411 c:\users\sam\documents\programs\c++\component\core.h
+	<string>
+
+1318888539 source:c:\users\sam\documents\programs\c++\component\store.cpp
+	<iostream>
+	<fstream>
+	"Core.h"
+	"Store.h"
+
+1318883418 source:c:\users\sam\documents\programs\c++\component\core.cpp
+	<iostream>
+	<fstream>
+	"Core.h"
+	"GfxSub.h"
+	"Store.h"
+
+1318883457 source:c:\users\sam\documents\programs\c++\component\gfxcomponent.cpp
+	"GfxComponent.h"
+
+1321210276 source:c:\documents and settings\me\my documents\programs\component\gfxcomponent.cpp
+	"GfxComponent.h"
+	"Store.h"
+
+1320710145 c:\documents and settings\me\my documents\programs\component\gfxcomponent.h
+	<SFML/Graphics.hpp>
+	"Typedefs.h"
+
+1321217121 source:c:\documents and settings\me\my documents\programs\component\gfxsub.cpp
+	<iostream>
+	"GfxSub.h"
+	"Core.h"
+	"Message.h"
+	"Vector2d.h"
+	"CoordsSub.h"
+	"Ui.h"
+	<SFML/Graphics.hpp>
+
+1321216178 c:\documents and settings\me\my documents\programs\component\gfxsub.h
+	<map>
+	"TypeDefs.h"
+	"GfxComponent.h"
+
+1321219400 c:\documents and settings\me\my documents\programs\component\typedefs.h
+	<string>
+	<vector>
+	<boost/property_tree/ptree.hpp>
+	<boost/property_tree/xml_parser.hpp>
+
+1321219356 c:\documents and settings\me\my documents\programs\component\core.h
+	<string>
+
+1320008038 source:c:\documents and settings\me\my documents\programs\component\store.cpp
+	<iostream>
+	<fstream>
+	<boost/property_tree/ptree.hpp>
+	<boost/property_tree/xml_parser.hpp>
+	<boost/foreach.hpp>
+	"Core.h"
+	"Store.h"
+
+1320006446 c:\documents and settings\me\my documents\programs\component\store.h
+	<map>
+	<string>
+	<SFML/Graphics.hpp>
+	"TypeDefs.h"
+
+1321209944 source:c:\documents and settings\me\my documents\programs\component\main.cpp
+	<iostream>
+	"Core.h"
+	"ObjectBuilder.h"
+	"ObjectStore.h"
+	"Object.h"
+	"GfxSub.h"
+	"MoveSub.h"
+	"InputSub.h"
+	"MessageCentre.h"
+
+1321219573 source:c:\documents and settings\me\my documents\programs\component\core.cpp
+	<iostream>
+	<fstream>
+	<boost/property_tree/ptree.hpp>
+	<boost/property_tree/xml_parser.hpp>
+	"Ui.h"
+	"Core.h"
+	"GfxSub.h"
+	"CollisionSub.h"
+	"CoordsSub.h"
+	"HealthSub.h"
+	"MoveSub.h"
+	"HealthSub.h"
+	"InputSub.h"
+	"Store.h"
+	"ObjectBuilder.h"
+	"ObjectStore.h"
+	"MessageCentre.h"
+
+1321219463 source:c:\documents and settings\me\my documents\programs\component\objectbuilder.cpp
+	"ObjectBuilder.h"
+	"ObjectStore.h"
+	"Core.h"
+	"Store.h"
+	"GfxSub.h"
+	"CollisionSub.h"
+	"CoordsSub.h"
+	"HealthSub.h"
+	"MoveSub.h"
+	"InputSub.h"
+	"Object.h"
+
+1319148242 c:\documents and settings\me\my documents\programs\component\objectbuilder.h
+	<string>
+	"TypeDefs.h"
+
+1320015234 source:c:\documents and settings\me\my documents\programs\component\object.cpp
+	<iostream>
+	"Object.h"
+	"Core.h"
+	"Message.h"
+
+1320015234 c:\documents and settings\me\my documents\programs\component\object.h
+	"TypeDefs.h"
+
+1319397395 c:\documents and settings\me\my documents\programs\component\objectstore.h
+	<map>
+	"TypeDefs.h"
+
+1320014765 source:c:\documents and settings\me\my documents\programs\component\objectstore.cpp
+	"ObjectStore.h"
+	"Object.h"
+	"Core.h"
+	"GfxSub.h"
+	"CoordsSub.h"
+
+1320710112 source:c:\documents and settings\me\my documents\programs\component\coordscomponent.cpp
+	"CoordsComponent.h"
+
+1320710132 c:\documents and settings\me\my documents\programs\component\coordscomponent.h
+	"Vector2d.h"
+	"Typedefs.h"
+
+1307911496 c:\documents and settings\me\my documents\programs\component\vector2d.h
+	<iostream>
+
+1321216191 source:c:\documents and settings\me\my documents\programs\component\coordssub.cpp
+	<iostream>
+	"CoordsSub.h"
+	"Core.h"
+
+1321216178 c:\documents and settings\me\my documents\programs\component\coordssub.h
+	<map>
+	"TypeDefs.h"
+	"CoordsComponent.h"
+	"Message.h"
+
+1307911402 source:c:\documents and settings\me\my documents\programs\component\vector2d.cpp
+	"Vector2d.h"
+
+1319903907 c:\documents and settings\me\my documents\programs\component\messagecentre.h
+	<list>
+
+1320015497 source:c:\documents and settings\me\my documents\programs\component\messagecentre.cpp
+	"MessageCentre.h"
+	"Message.h"
+	"Telegram.h"
+	<iostream>
+
+1321208272 c:\documents and settings\me\my documents\programs\component\message.h
+	"Typedefs.h"
+
+1321208571 c:\documents and settings\me\my documents\programs\component\telegram.h
+	"Typedefs.h"
+	"Message.h"
+
+1321219489 source:c:\documents and settings\me\my documents\programs\component\telegram.cpp
+	"Telegram.h"
+	"Message.h"
+	"Object.h"
+	"Core.h"
+	"ObjectStore.h"
+	"GfxSub.h"
+	"CollisionSub.h"
+	"CoordsSub.h"
+	"HealthSub.h"
+	"MoveSub.h"
+	"InputSub.h"
+
+1321208402 source:c:\documents and settings\me\my documents\programs\component\message.cpp
+	"Message.h"
+	"Core.h"
+
+1321216178 c:\documents and settings\me\my documents\programs\component\healthsub.h
+	<map>
+	"TypeDefs.h"
+	"HealthComponent.h"
+	"Message.h"
+
+1320710598 c:\documents and settings\me\my documents\programs\component\healthcomponent.h
+	"TypeDefs.h"
+
+1321210276 source:c:\documents and settings\me\my documents\programs\component\healthcomponent.cpp
+	<iostream>
+	"HealthComponent.h"
+
+1321216213 source:c:\documents and settings\me\my documents\programs\component\healthsub.cpp
+	<iostream>
+	"HealthSub.h"
+	"Core.h"
+
+1321216178 c:\documents and settings\me\my documents\programs\component\movesub.h
+	<map>
+	"TypeDefs.h"
+	"MoveComponent.h"
+	"Message.h"
+
+1320710617 c:\documents and settings\me\my documents\programs\component\movecomponent.h
+	"Vector2d.h"
+	"TypeDefs.h"
+
+1320710112 source:c:\documents and settings\me\my documents\programs\component\movecomponent.cpp
+	"MoveComponent.h"
+
+1321216232 source:c:\documents and settings\me\my documents\programs\component\movesub.cpp
+	<iostream>
+	"MoveSub.h"
+	"Core.h"
+	"CoordsSub.h"
+
+1321134407 c:\documents and settings\me\my documents\programs\component\ui.h
+	<SFML/Graphics.hpp>
+	"Vector2d.h"
+
+1321134744 source:c:\documents and settings\me\my documents\programs\component\ui.cpp
+	<boost/property_tree/ptree.hpp>
+	<boost/property_tree/xml_parser.hpp>
+	"Ui.h"
+
+1321142722 source:c:\documents and settings\me\my documents\programs\component\inputcomponent.cpp
+	"InputComponent.h"
+
+1321142722 c:\documents and settings\me\my documents\programs\component\inputcomponent.h
+	"Vector2d.h"
+	"Typedefs.h"
+
+1321216879 source:c:\documents and settings\me\my documents\programs\component\inputsub.cpp
+	<iostream>
+	"Ui.h"
+	"InputSub.h"
+	"Core.h"
+	"Store.h"
+	"Message.h"
+	"Telegram.h"
+	"MEssageCentre.h"
+
+1321216178 c:\documents and settings\me\my documents\programs\component\inputsub.h
+	<map>
+	<sfml/Window.hpp>
+	"TypeDefs.h"
+	"InputComponent.h"
+	"Message.h"
+
+1321219286 source:c:\documents and settings\me\my documents\programs\component\collisioncomponent.cpp
+	"CollisionComponent.h"
+
+1321219286 c:\documents and settings\me\my documents\programs\component\collisioncomponent.h
+	"Vector2d.h"
+	"Typedefs.h"
+
+1321219286 source:c:\documents and settings\me\my documents\programs\component\collisionsub.cpp
+	<iostream>
+	"CollisionSub.h"
+	"Core.h"
+
+1321219303 c:\documents and settings\me\my documents\programs\component\collisionsub.h
+	<map>
+	"TypeDefs.h"
+	"CollisionComponent.h"
+	"Message.h"
+

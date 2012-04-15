@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Object><Name>coin</Name><Gfx>true<Sprite>coin.png</Sprite></Gfx><Coords>true<x>150</x><y>150</y></Coords><Move>true<x>0</x><y>0.1</y></Move></Object>

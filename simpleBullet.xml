@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Object><Name>simpleBullet</Name><Gfx>true<Sprite>simpleBullet.png</Sprite></Gfx><Coords>true<x>200</x><y>500</y></Coords><Move>true<x>0</x><y>-5</y></Move></Object>

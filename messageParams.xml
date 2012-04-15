@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Params><damage>health -</damage><heal>health +</heal><die>core die</die><changeSprite>gfx change</changeSprite><setPathTo>path set</setPathTo></Params>

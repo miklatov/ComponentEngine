@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Blueprint>ship01<Health>Yes<Max>100</Max><Current>37</Current></Health><Gfx>Yes<SpriteSheetFileName>ship01.png</SpriteSheetFileName><Dimensions><x>32</x><y>32</y></Dimensions><frameNum>2</frameNum></Gfx><Coords>Yes</Coords><Move>Yes</Move></Blueprint>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Object><Name>player</Name><Gfx>true<Sprite>spaceship.png</Sprite></Gfx><Coords>true<x>200</x><y>500</y></Coords><Health>true<Max>10</Max><Current>10</Current></Health><Move>true<x>0.4</x><y>0</y></Move><Input>true</Input></Object>
